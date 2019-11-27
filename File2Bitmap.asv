@@ -1,0 +1,17 @@
+file = 'reportOutput.txt';
+global bitmap2;
+
+Row = 5000; Col = 5000; %numbers of rows and columns of bitmap
+bitmap2 = zeros(Row, Col); %initialize as empty
+[c, r, numberOfRows] = readReportOutput(file);
+
+Xmax = 50;
+Ymax = 50;
+
+[I, J] = XYtoIJ(c(:,1), c(:,2), Xmax, Ymax, Row, Col);
+r = r./(Xmax/Col);
+draw_disc2(I, J, r);
+
+imagesc(bitmap2)
+set(gca,'YDir','normal');
+axis square

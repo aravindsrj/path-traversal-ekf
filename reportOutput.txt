@@ -1,0 +1,43 @@
+Number of Rows: 5
+-> 1
+01, Center: (18.4409, 19.9692) m, Diameter: 0.8424 m
+02, Center: (18.5799, 21.8572) m, Diameter: 0.9392 m
+03, Center: (18.4076, 23.8700) m, Diameter: 0.8508 m
+04, Center: (18.4739, 25.8920) m, Diameter: 0.9027 m
+05, Center: (18.4552, 27.9515) m, Diameter: 0.7596 m
+06, Center: (18.3469, 29.9762) m, Diameter: 0.7990 m
+07, Center: (18.4106, 31.9978) m, Diameter: 0.7419 m
+
+-> 2
+01, Center: (21.5169, 19.8727) m, Diameter: 1.0030 m
+02, Center: (21.4539, 21.9235) m, Diameter: 0.8209 m
+03, Center: (21.4805, 23.9189) m, Diameter: 0.8564 m
+04, Center: (21.4594, 25.9475) m, Diameter: 0.7080 m
+05, Center: (21.4546, 27.9415) m, Diameter: 0.7508 m
+06, Center: (21.4546, 29.9997) m, Diameter: 0.7428 m
+07, Center: (21.4805, 32.0223) m, Diameter: 0.7366 m
+
+-> 3
+01, Center: (24.4976, 19.9443) m, Diameter: 1.0429 m
+02, Center: (24.4945, 23.9405) m, Diameter: 0.9842 m
+03, Center: (24.4975, 25.9805) m, Diameter: 0.9209 m
+04, Center: (24.5149, 27.9750) m, Diameter: 0.8232 m
+05, Center: (24.4608, 30.0016) m, Diameter: 0.7514 m
+06, Center: (24.5368, 32.0960) m, Diameter: 0.7149 m
+
+-> 4
+01, Center: (27.5254, 19.9935) m, Diameter: 1.0563 m
+02, Center: (27.5489, 21.9591) m, Diameter: 0.9877 m
+03, Center: (27.5526, 23.9198) m, Diameter: 0.9609 m
+04, Center: (27.5220, 25.9767) m, Diameter: 0.8493 m
+05, Center: (27.5329, 27.9682) m, Diameter: 0.8128 m
+06, Center: (27.5474, 30.0256) m, Diameter: 0.7626 m
+07, Center: (27.5443, 31.8444) m, Diameter: 0.8346 m
+
+-> 5
+01, Center: (30.5962, 19.9543) m, Diameter: 1.0696 m
+02, Center: (30.6291, 21.9228) m, Diameter: 0.7578 m
+03, Center: (30.5962, 23.9609) m, Diameter: 0.6953 m
+04, Center: (30.6150, 27.8497) m, Diameter: 0.7871 m
+05, Center: (30.5445, 29.9149) m, Diameter: 0.7172 m
+06, Center: (30.6320, 32.0162) m, Diameter: 0.9321 m
